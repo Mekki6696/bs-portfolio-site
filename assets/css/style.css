@@ -28,6 +28,15 @@ h2 {
     border-radius: 0px;
 }
 
+.blue-btn{
+    background-color: #1f7798;
+    border-color: #1f7798;
+}
+
+.blue-btn:hover {
+    background-color: #1d6d8a;
+    border-color: #1d6d8a;
+}
 /* about section */
 #about {
     background-color: white;
@@ -58,9 +67,6 @@ h2 {
 #contact {
     background-color: white;
 }
-
-/* header */
-
 
 /* hero image */
 #hero {
