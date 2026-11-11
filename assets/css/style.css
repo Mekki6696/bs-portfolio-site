@@ -22,6 +22,12 @@ h2 {
     /* dark-blue */
 }
 
+/* using the * wildcard selectors means that the child elements will have sharp corners */
+.sharp-corners,
+.sharp-corners * {
+    border-radius: 0px;
+}
+
 /* about section */
 #about {
     background-color: white;
